@@ -1,5 +1,5 @@
 # achilles--toe
-A footswitch for controlling Reaper and NeuralDSP plugins made with Arduino UNO
+A footswitch for controlling Reaper and NeuralDSP plugins made with Arduino UNO  
 (Well, actually it's a MIDI-controller, not necessarily a footswitch).
 
 Important note: this can't be used with Arduino NANO.

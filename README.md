@@ -19,5 +19,5 @@ A5: Switch to the next NeuralDSP preset (must be binded in the plugin)
 Just uploading the code onto UNO won't work as the controller must be recognized by the PC as a keyboard.  
 To achieve this, you'll need to use free software called FLIP.  
 First, upload the sketch from this repository to UNO.  
-Then flash UNO with the "keyboard.hex" file, included in the repository. This'l be enough.  
-To rever UNO to it's default state, use the other .hex file.  
+Then flash UNO with the "keyboard.hex" file, included in the repository. This'll be enough.  
+To revert UNO to it's default state, use the other .hex file.  
